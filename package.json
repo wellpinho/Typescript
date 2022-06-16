@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wellpinho/typescript/issues"
   },
-  "homepage": "https://github.com/wellpinho/typescript#readme"
+  "homepage": "https://github.com/wellpinho/typescript#readme",
+  "dependencies": {
+    "typescript": "^4.7.3"
+  }
 }
